@@ -67,8 +67,3 @@ I'm Menna Rashed from Egypt
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mennarashed01&layout=compact&theme=dracula" height="150" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mennarashed01&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" />
-</div>
