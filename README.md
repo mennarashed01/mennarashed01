@@ -24,8 +24,7 @@
 
 ### 🌟 Featured Projects  
 - 🏥 [**Hospital Management System**](https://github.com/mennarashed01/HospitalManagementSystem) – Console-based system using C# and OOP principles.  
-- 📚 [**Library Management System**](https://github.com/mennarashed01/LibraryManagementSystem) – Demonstrates use of Collections & Generics in C#.  
-- ✨ [**Zakerni**](#) – A simple religious reminder web app for Muslims (coming soon!).
+- 📚 [**Library Management System**](https://github.com/mennarashed01/LibraryManagementSystem) – Demonstrates use of Collections & Generics in C#.
 
 ---
 
