@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Hi 👋, I'm Menna Rashed
@@ -90,8 +89,6 @@ Console-based hospital system built with clean OOP principles and array-based da
 
 [![View Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mennarashed01/HospitalManagementSystem)
 
-
-
 ---
 
 ## 📊 GitHub Stats
@@ -102,18 +99,6 @@ Console-based hospital system built with clean OOP principles and array-based da
 
 [![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mennarashed01&theme=tokyonight)](https://github.com/mennarashed01)
 [![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mennarashed01&theme=tokyonight)](https://github.com/mennarashed01)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mennarashed01&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<div align="center">
-
-![Menna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mennarashed01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mennarashed01&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mennarashed01&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
